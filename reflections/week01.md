@@ -8,6 +8,35 @@ This portfolio will contain my weekly reflections and research lab work for the 
 
 Software is the programs and applications that we use on computers, phones and other devices to complete different tasks. Engineering adds more structure to this as software needs to be properly planned, designed, developed and tested to make sure it works as expected. Good software should be reliable and easy for the user to understand.
 
-One example of software that has worked well for me is Microsoft Excel. I have used it a lot in college and during my work placement for organising and analysing data. It generally works reliably and provides a lot of useful features while still being fairly easy to use. A software issue I have experienced is with websites or apps that crash or become unresponsive, especially when completing forms. This can be frustrating if information I have already entered is lost. Developers could improve this by carrying out more testing under different conditions or including features such as automatically saving a users progress.
+One example of software that has worked well for me is Microsoft Excel. I have used it a lot in college and during my work placement for organising and analysing data. It generally works reliably and provides a lot of useful features while still being fairly easy to use. A software issue I have experienced is with websites or apps that crash or become unresponsive, especially when completing forms. This can be frustrating if information I have already entered is lost. Developers could improve this by carrying out more testing under different conditions or including features such as automatically saving a user's progress.
 
 These experiences have shown me that software engineering is not only about creating software, but also making sure it is reliable, tested and suitable for people using it.
+
+
+## The Four Process Activities
+
+### Stage 1 - Kickoff
+Specification was weak because there was only one meeting and no written requirements were created. Development started based mainly on assumptions.
+
+### Stage 2 - Development
+Development was present, but it was poorly organised. The developers worked independently with little communication, no shared coding standards and no code review. Validation was also missing as warehouse staff were not involved.
+
+### Stage 3 - A Change of Plan
+Evolution was weak. When the second warehouse was added, the developers patched the new requirements onto the existing system instead of reviewing and adapting the original design.
+
+### Stage 4 - Testing
+Validation was very weak. The developers only tested the system themselves for two days and no warehouse staff were involved in testing before it went live.
+
+### Stage 5 - Go-Live
+Problems appeared once the system went live, including incorrect stock transfers, barcode issues and corrupted stock counts. This showed the effects of the weak specification and validation earlier in the project.
+
+I think the biggest failure was the lack of proper specification at the beginning. The team did not fully understand the needs of the warehouse staff, which caused problems throughout development and when the system went live.
+
+
+
+
+
+
+
+
+
