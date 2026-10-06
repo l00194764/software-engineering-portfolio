@@ -33,6 +33,16 @@ Problems appeared once the system went live, including incorrect stock transfers
 I think the biggest failure was the lack of proper specification at the beginning. The team did not fully understand the needs of the warehouse staff, which caused problems throughout development and when the system went live.
 
 
+## Researching a Software Failure
+
+A software failure I researched was the Ariane 5 Flight 501 rocket failure in 1996. Around 40 seconds after the flight sequence began, the rocket went off course, broke apart and exploded. The European Space Agency's investigation found that the failure was caused by problems in the software of the rocket's inertial reference system.
+
+Software from the earlier Ariane 4 system had been reused, but it had not been properly tested for the different flight conditions of Ariane 5. This resulted in the loss of guidance information shortly after launch. The investigation found that better testing of the inertial reference system and the complete flight control system could have identified the problem before launch.
+This shows the importance of properly testing reused software when it is being used in a different system.
+
+
+
+
 
 
 
